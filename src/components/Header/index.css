@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.nav-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container {
+  display: flex;
+  align-self: center;
+}
+.list-container {
+  display: flex;
+  list-style-type: none;
+  text-decoration: none;
+}
+.list {
+  margin-right: 9px;
+}
