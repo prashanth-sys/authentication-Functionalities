@@ -3,7 +3,7 @@ import './index.css'
 
 const NotFound = () => (
   <div className="bg-container">
-    <h1>shiva paravathi</h1>
+    <h1>Not Found</h1>
   </div>
 )
 export default NotFound
